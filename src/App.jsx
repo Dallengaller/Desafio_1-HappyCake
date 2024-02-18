@@ -1,8 +1,8 @@
 /* App.jsx */
 import { Route, Routes } from "react-router-dom";
-import Navigation from "./components/Navigation";
+import Navigation from "./components/Navbar";
 import HomePage from "./views/HomePage";
-import ContactPage from "./views/ContactPage";
+import ContactPage from "./views/Contact";
 import NotFound from "./views/NotFound";
 const App = () => {
   return (
