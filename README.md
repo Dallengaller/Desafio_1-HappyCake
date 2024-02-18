@@ -1,2 +1,5 @@
-# Desafio_1-HappyCake
-La empresa Happy Cake SPA se dedica a cocinar pasteles personalizados y ha decidido financiar la creación de una página web en donde le permita a los clientes realizar cotizaciones y ofrecer un formulario de contacto.
+# Proyecto Happy Cake.
+# Se crea una aplicaci'on React que utiliza React Router para ofrecer una navegacion con dos vistas
+# Home y Contacto.
+# Home: muestra contenido principal
+# Contacto: muestra un formulario de contacto, en donde se pude ingresar el mail y un comentario.
